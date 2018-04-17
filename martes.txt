@@ -1,4 +1,9 @@
 1. examen
+<<<<<<< HEAD
 2. fut con los amigos 
 3. cena con mis amigos porque estoy soltera
+=======
+2. fut
+3. estoy cambiando
+>>>>>>> cambios2
 4. me planto
